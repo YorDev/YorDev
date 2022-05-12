@@ -6,7 +6,6 @@ Software development student at ITLA since January 2022, and self-learning since
 
 Skills: HTML / CSS / JS / C# / Discord.js
 
-- 🔭 I’m currently working on my portfolio  
 - 🌱 I’m currently learning React and database 
 
 
