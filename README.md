@@ -4,7 +4,7 @@
 
 Software development student at ITLA since January 2022, and self-learning since 2020.
 
-Skills: HTML / CSS / JS / C# / Discord.js
+Skills: HTML / CSS / JS / C# / .net / blazor
 
 - 🌱 I’m currently learning React and database 
 
