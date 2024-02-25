@@ -4,7 +4,7 @@
 
 Software development student at ITLA since January 2022, and self-learning since 2020.
 
-Skills: JS / C# / .net / React / PHP / Laravel/ Leaf PHP
+Skills: PHP / Laravel / C# / .NET Core / JS / React
  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YorDev)  
