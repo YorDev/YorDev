@@ -15,8 +15,8 @@
 - Software engineering student 
 - Made in 🇩🇴 20 years ago
 - I like learn new tech
-- I'm obsessed with good coding practices
-- I'm currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/YorDev)
+- Obsessed with good coding practices
+- I'm available for employment opportunities, this is [my resume](https://github.com/YorDev)
 
 <br><br>
 
