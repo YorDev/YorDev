@@ -25,47 +25,37 @@
 
 <p align="center">
 
-- **Languages**:
+**Languages**:
   
-  [![My Skills](https://skillicons.dev/icons?i=python,cs,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,js)](https://skillicons.dev)
 
 <br>   
     
-- **Frameworks and libraries**:
+**Frameworks and libraries**:
   
-   [![My Skills](https://skillicons.dev/icons?i=django,fastapi,dotnet,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,dotnet,react,tailwind)](https://skillicons.dev)
   
 <br>
 
 
-- **Softwares and Tools**:
+**Softwares and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=docker,git,github,azure,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,azure,aws)](https://skillicons.dev)
 
 </p>
 
 <br>
-
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"><b> Github Stats </b>
 <br>
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+![YorDev's Stats](https://github-readme-stats.vercel.app/api?username=YorDev&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![YorDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YorDev&theme=dark&hide_border=true)
+![YorDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YorDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-</a>
 </div>
-
-<br>
-<br>
-<br>
-
------
 
 <br>
 <br>
@@ -77,29 +67,18 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/yordy-magallanes-859459253/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Yordy-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:yordymichael05@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  yordy-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
 </ul>
 </div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
